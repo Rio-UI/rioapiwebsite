@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rio API  |  畅连全球AI智能 | GPT-4.1, Grok 3, Claude 3.7, DeepSeek 一站式接入",
+  title: "Rio API  |  畅连全球AI智能",
   description: "Rio API为您提供一站式 AI 大模型接入解决方案，国内网络直连全球两百+顶尖 AI 大模型，无需订阅，注册即用。畅连全球AI智能",
   keywords: "AI API 代理, 大模型 API, LLM API, API 网关, API 中转, ChatGPT API, Grok API, Claude API, DeepSeek API, OpenAI API, xAI API, Anthropic API, 稳定 AI 代理, 多模型 API, 统一 API 接口, AI 开发, 人工智能 API, 大模型接入, AI 应用, API 服务, AI Agent",
   icons: {
