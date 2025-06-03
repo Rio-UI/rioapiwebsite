@@ -100,7 +100,7 @@ export default function Header() {
             模型列表
           </Link>
           <Link
-            href="https://riodocs.super.site/getting-started"
+            href="https://api.riiio.chat"
             target="_blank"
             className="text-gray-600 hover:text-gray-900 transition-colors py-2"
             onClick={() => setIsMenuOpen(false)}
